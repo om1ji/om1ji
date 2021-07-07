@@ -6,4 +6,4 @@
 Результат моего прогресса в веб-дизайне:
 http://om1ji.site/me
 
-![Bruh](https://commons.wikimedia.org/wiki/File:Telegram_logo.svg#/media/File:Telegram_logo.svg)
+[Telegram](https://t.me/om1ji)
