@@ -6,4 +6,4 @@
 Результат моего прогресса в веб-дизайне:
 http://om1ji.site
 
-[Telegram](https://t.me/om1ji)
+[Telegram](https://t.me/om1ji) 
