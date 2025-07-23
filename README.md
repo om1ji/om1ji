@@ -1,5 +1,5 @@
 # Amal Khasanbaev
-> Fullstack Developer, Backend-focused, Startups
+> Fullstack Developer | Backend-focused | Startups
 
 🚀 I'm a developer with 3+ years of experience building scalable web systems.
 
