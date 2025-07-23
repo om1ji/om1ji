@@ -34,6 +34,6 @@ Currently learning: Go language, AI & ML (with Python and PyTorch), System desig
 ### Let’s connect
 [Telegram](https://t.me/om1ji)
 
-[LinkedIn](linkedin.com/in/om1ji)
+[LinkedIn](https://linkedin.com/in/om1ji)
 
 Email: om1ji.music@gmail.com
