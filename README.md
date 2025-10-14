@@ -1,14 +1,4 @@
-# Amal Khasanbaev
-> Fullstack Developer | Backend-focused
-
-🚀 I'm a developer with 3+ years of experience building scalable web systems.
-
-🧩 Specializing in backend development using Python (FastAPI, Flask, Django), and also work with modern frontend stacks (React, Next.js, Vite).
-
-💡 I’ve worked mostly in early-stage startups where I was responsible for designing backend architecture, integrating third-party APIs, and delivering production-ready solutions from scratch.
-
-
-Currently learning: Go language, AI & ML (with Python and PyTorch), System design & distributed systems
+# Amal Khasanbaev, Web developer and Flutter Developer
 
 ### Skills
 
