@@ -1,4 +1,4 @@
-# Amal Khasanbaev, Web developer and Flutter Developer
+# Amal Khasanbaev, Web and Flutter Developer
 
 
 ### Skills
