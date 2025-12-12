@@ -1,8 +1,6 @@
 # Amal Khasanbaev, Web and Flutter Developer
 
 
-### Skills
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
