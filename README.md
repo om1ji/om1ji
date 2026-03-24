@@ -7,6 +7,7 @@
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Firebase](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 
 ### Let’s connect
